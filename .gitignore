@@ -1,3 +1,9 @@
 .DS.Store
 
+.vscode/
+
+.idea/
+
+node_modules/
+
 
